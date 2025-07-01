@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/images/banner.png" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />
@@ -23,21 +19,6 @@
 - 💡 Designed autonomous analyzers from **XLSX, Regex, Machine Learning inputs** with animated reporting and decision support.
 - 🌍 Focused on tech that solves: sustainability, real-time production, predictive infrastructure.
 - 📫 Reach me at: oktavianowork.com
-
----
-
-## 🧠 Skill Level Estimation
-
-| Category              | Tools / Technologies                                               | Est. Level          |
-|-----------------------|--------------------------------------------------------------------|---------------------|
-| Embedded & Automation | Arduino, STM32, PLC Siemens, MQTT, OPC-UA                         | 🔥 Advanced          |
-| Backend               | PHP, Laravel, FastAPI, Express, Node.js, SQL, MongoDB             | 🔥🔥 Advanced–Pro     |
-| Frontend              | React, Tailwind, Vite, Framer Motion, Next.js                     | 🔥🔥 Advanced–Pro     |
-| AI & Tools            | LangChain, RAG, PyQt5, OpenCV, Pandas, XlsxWriter, LLM            | 🚀 Elite-focused     |
-| Cloud / DevOps        | Docker, Vercel, Cloudflare, AWS                                   | 💪 Intermediate      |
-| Data / Infra          | SQLite, Firebase, Git                                              | 🔧 Solid Foundation  |
-
-> 💡 Overall Positioning: **Top 0.00001% cross-domain engineer in embedded x AI x automation**, with tactical execution.
 
 ---
 
