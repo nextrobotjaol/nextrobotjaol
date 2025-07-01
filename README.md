@@ -20,8 +20,8 @@
 - 🔭 Building **Carbon Sentinel / HutanPay** — incentivized carbon tracking for forests using satellite + mobile + token logic.
 - 🧠 Orchestrating **RAG-based agents**, **LangChain**, and **embedded MQTT automation** for real-world AI deployment.
 - ⚙️ Working with **STM32**, **PLC Siemens (TIA Portal)**, and **PyQt5** to bridge machine & data intelligence.
-- 💡 Designed autonomous analyzers from **XLSX inputs** with animated reporting and decision support.
-- 🌍 Focused on tech that solves: sustainability, real-time logistics, predictive infrastructure.
+- 💡 Designed autonomous analyzers from **XLSX, Regex, Machine Learning inputs** with animated reporting and decision support.
+- 🌍 Focused on tech that solves: sustainability, real-time production, predictive infrastructure.
 - 📫 Reach me at: oktavianowork.com
 
 ---
