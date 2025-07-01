@@ -10,7 +10,7 @@
 
 <p align="center">
   Systems engineer, embedded AI strategist, and environmental tech builder based in Surabaya. <br />
-  I specialize in intelligent automation, predictive analytics, and mission-critical platforms across industry and sustainability.
+  I specialize in intelligent automation, multidomain analytics, and mission-critical platforms across industry and sustainability.
 </p>
 
 ---
